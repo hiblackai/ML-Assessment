@@ -6,3 +6,4 @@ joblib
 flask
 seaborn
 matplotlib
+requests
